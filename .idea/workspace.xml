@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27c57407-c335-4db6-9f49-ea17be9f7426" name="Changes" comment="feat:">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/employee/Entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/employee/Repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/employee/Service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/employee/Service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/employee/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/employee/employeeservice/EmployeeServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/employee/employeeservice/EmployeeServiceApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GuillerWeb&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GuillerWeb/angular-springboot-mysql.git&quot;,
+    &quot;accountId&quot;: &quot;e5f1d47a-5661-448c-89cd-f4e496abfc90&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3ITVA9KzxCnoJeS0TNcxGjSI0GP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.All in employee-service (1).executor": "Run",
+    "JUnit.All in employee-service (2).executor": "Debug",
+    "JUnit.All in employee-service.executor": "Run",
+    "Maven.employee-service [clean].executor": "Run",
+    "Maven.employee-service [compile].executor": "Run",
+    "Maven.employee-service [install].executor": "Run",
+    "Maven.employee-service [org.springframework.boot:spring-boot-maven-plugin:4.1.1:run].executor": "Run",
+    "Maven.employee-service [site].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.EmployeeServiceApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/suporte.novati/OneDrive/Documentos/Pasta de Estudo/Java/Spring/java-spring-angular/employee-service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "cn.yiiguxing.plugin.translate",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\suporte.novati\OneDrive\Documentos\Pasta de Estudo\Java\Spring\java-spring-angular\employee-service\back-end" />
+      <recent name="C:\Users\suporte.novati\OneDrive\Documentos\Pasta de Estudo\Java\Spring\java-spring-angular\employee-service\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.employee" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EmployeeServiceApplication">
+    <configuration name="All in employee-service (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employee-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in employee-service (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employee-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in employee-service" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employee-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EmployeeServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="employee-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.employee.EmployeeServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in employee-service (2)" />
+        <item itemvalue="JUnit.All in employee-service (1)" />
+        <item itemvalue="JUnit.All in employee-service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27c57407-c335-4db6-9f49-ea17be9f7426" name="Changes" comment="" />
+      <created>1787788403252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787788403252</updated>
+      <workItem from="1787788404459" duration="2185000" />
+      <workItem from="1790102084005" duration="1000" />
+      <workItem from="1790168637711" duration="956000" />
+      <workItem from="1790181015340" duration="275000" />
+      <workItem from="1790181479164" duration="203000" />
+      <workItem from="1790442071372" duration="8162000" />
+      <workItem from="1790539914642" duration="21313000" />
+      <workItem from="1790613268642" duration="800000" />
+      <workItem from="1790687128333" duration="2463000" />
+      <workItem from="1790689863310" duration="30000" />
+      <workItem from="1790739401125" duration="130000" />
+      <workItem from="1790739566629" duration="614000" />
+      <workItem from="1790740221459" duration="377000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit: Initialize project structure">
+      <option name="closed" value="true" />
+      <created>1787789510643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1787789510643</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chore: adicionando .gitignore atualizado">
+      <option name="closed" value="true" />
+      <created>1790563845296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790563845296</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: criação de entidade e repository de Employee">
+      <option name="closed" value="true" />
+      <created>1790564068109</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790564068109</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: implementação da camada service">
+      <option name="closed" value="true" />
+      <created>1790564156055</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1790564156055</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: implementação da camada service">
+      <option name="closed" value="true" />
+      <created>1790564451967</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1790564451967</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: implementa endpoints CRUD de Employee no controller">
+      <option name="closed" value="true" />
+      <created>1790564658583</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1790564658583</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit: Initialize project structure" />
+    <MESSAGE value="chore: adicionando .gitignore atualizado" />
+    <MESSAGE value="feat: criação de entidade e repository de Employee" />
+    <MESSAGE value="feat: implementação da camada service" />
+    <MESSAGE value="feat: implementa endpoints CRUD de Employee no controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: implementa endpoints CRUD de Employee no controller" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
